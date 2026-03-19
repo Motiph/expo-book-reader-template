@@ -1,0 +1,42 @@
+{
+  "id": "enoc",
+  "title": "Le Livre d'Enoch",
+  "subtitle": "Le Livre des Veilleurs",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Chapitre 1",
+      "subtitle": "La vision d'Enoch",
+      "paragraphs": [
+        { "id": "1-1", "verse": 1, "text": "Paroles de bénédiction d'Enoch avec lesquelles il bénit les élus et les justes qui existeront au jour de la tribulation, lorsque tous les méchants et les impies seront écartés." },
+        { "id": "1-2", "verse": 2, "text": "Et Enoch répondit et dit : J'étais un homme juste, dont les yeux furent ouverts par Dieu, et qui eut la vision du Saint dans les cieux ; ce sont les anges qui me l'ont montré." },
+        { "id": "1-3", "verse": 3, "text": "D'eux j'ai tout entendu et j'ai compris ce que j'ai vu ; mais non pour cette génération, mais pour une génération lointaine qui est à venir." },
+        { "id": "1-4", "verse": 4, "text": "Concernant les élus, je parlerai, et à leur sujet je prononcerai ma parabole : le Saint et le Grand sortira de sa demeure." },
+        { "id": "1-5", "verse": 5, "text": "Le Dieu éternel foulera la terre, le mont Sinaï, et apparaîtra dans la force de sa puissance depuis le ciel des cieux." },
+        { "id": "1-6", "verse": 6, "text": "Tous seront saisis de peur, et les Veilleurs trembleront, et une grande crainte et frayeur les envahiront jusqu'aux extrémités de la terre." },
+        { "id": "1-7", "verse": 7, "text": "Les hautes montagnes seront ébranlées, les collines s'abaisseront et fondront comme la cire devant la flamme." },
+        { "id": "1-8", "verse": 8, "text": "La terre sera submergée, et tout ce qui s'y trouve périra, tandis que le jugement s'abattra sur tous." },
+        { "id": "1-9", "verse": 9, "text": "Mais avec les justes, il fera la paix, et il protégera les élus ; la miséricorde sera sur eux. Tous appartiendront à Dieu, ils prospéreront et seront bénis. La splendeur de Dieu les illuminera." }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Chapitre 2",
+      "subtitle": "Les œuvres de la nature",
+      "paragraphs": [
+        { "id": "2-1", "verse": 1, "text": "Observez toutes les choses qui se produisent dans le ciel, comment elles ne changent pas leurs orbites ; observez les luminaires du ciel, comment tous se lèvent et se couchent avec ordre, chacun en sa saison, sans transgresser leur règle assignée." },
+        { "id": "2-2", "verse": 2, "text": "Observez la terre et prêtez attention aux choses qui s'y accomplissent, du commencement à la fin : comment aucune œuvre de Dieu ne change dans son apparence." },
+        { "id": "2-3", "verse": 3, "text": "Observez l'été et l'hiver : comment alors toute la terre est remplie d'eau, et les nuages, la rosée et la pluie reposent sur elle." }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Chapitre 3",
+      "subtitle": "L'ordre des saisons",
+      "paragraphs": [
+        { "id": "3-1", "verse": 1, "text": "Observez et voyez comment en hiver tous les arbres semblent comme desséchés et avoir perdu toutes leurs feuilles, sauf quatorze arbres qui ne perdent pas leur feuillage mais conservent les anciennes feuilles pendant deux à trois ans jusqu'à ce que les nouvelles apparaissent." },
+        { "id": "3-2", "verse": 2, "text": "Et voyez encore les jours d'été, lorsque le soleil brille sur elle dès le commencement. Cherchez l'ombre et un refuge contre la chaleur du soleil, et la terre brûle d'une chaleur ardente, et vous ne pouvez pas marcher sur la terre ni sur une roche à cause de la chaleur." }
+      ]
+    }
+  ]
+}

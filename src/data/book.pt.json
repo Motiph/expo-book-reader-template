@@ -1,0 +1,42 @@
+{
+  "id": "enoc",
+  "title": "O Livro de Enoque",
+  "subtitle": "O Livro dos Vigias",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Capítulo 1",
+      "subtitle": "A visão de Enoque",
+      "paragraphs": [
+        { "id": "1-1", "verse": 1, "text": "Palavras de bênção de Enoque com as quais ele abençoou os escolhidos e justos que existirão no dia da tribulação, quando todos os ímpios e perversos forem afastados." },
+        { "id": "1-2", "verse": 2, "text": "E Enoque respondeu e disse: Eu era um homem justo, cujos olhos foram abertos por Deus, e que teve a visão do Santo nos céus; isso os anjos me mostraram." },
+        { "id": "1-3", "verse": 3, "text": "Deles ouvi tudo e compreendi o que vi; mas não para esta geração, e sim para uma geração distante que ainda virá." },
+        { "id": "1-4", "verse": 4, "text": "A respeito dos escolhidos falarei, e sobre eles proferirei minha parábola: o Santo e Grande sairá de sua morada." },
+        { "id": "1-5", "verse": 5, "text": "O Deus eterno pisará a terra, o monte Sinai, e aparecerá com o poder de sua força desde o céu dos céus." },
+        { "id": "1-6", "verse": 6, "text": "Todos ficarão amedrontados, e os Vigilantes tremerão, e grande medo e pavor os dominarão até os confins da terra." },
+        { "id": "1-7", "verse": 7, "text": "As altas montanhas serão abaladas, as colinas afundarão e derreterão como cera diante da chama." },
+        { "id": "1-8", "verse": 8, "text": "A terra será inundada, e tudo o que nela existe perecerá, enquanto o julgamento virá sobre todos." },
+        { "id": "1-9", "verse": 9, "text": "Mas com os justos Ele fará a paz, e protegerá os escolhidos; haverá misericórdia sobre eles. Todos pertencerão a Deus, e prosperarão e serão abençoados. O esplendor de Deus os iluminará." }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Capítulo 2",
+      "subtitle": "As obras da natureza",
+      "paragraphs": [
+        { "id": "2-1", "verse": 1, "text": "Observai todas as coisas que acontecem no céu, como não mudam seus cursos; observai os luminares do céu, como todos nascem e se põem em ordem, cada um em sua estação, sem transgredir sua regra designada." },
+        { "id": "2-2", "verse": 2, "text": "Observai a terra e prestai atenção às coisas que nela se realizam, desde o começo até o fim: como nenhuma obra de Deus muda em sua aparência." },
+        { "id": "2-3", "verse": 3, "text": "Observai o verão e o inverno: como então toda a terra está cheia de água, e as nuvens, o orvalho e a chuva repousam sobre ela." }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Capítulo 3",
+      "subtitle": "A ordem das estações",
+      "paragraphs": [
+        { "id": "3-1", "verse": 1, "text": "Observai e vede como no inverno todas as árvores parecem como se tivessem secado e perdido todas as suas folhas, exceto catorze árvores que não perdem sua folhagem, mas retêm as folhas antigas por dois a três anos até que as novas apareçam." },
+        { "id": "3-2", "verse": 2, "text": "E vede novamente os dias de verão, quando o sol brilha sobre ela desde o princípio. Buscai a sombra e o refúgio do calor do sol, e a terra queima com calor abrasador, e não podeis pisar na terra nem sobre uma rocha por causa do calor." }
+      ]
+    }
+  ]
+}

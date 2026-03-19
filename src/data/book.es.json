@@ -1,0 +1,42 @@
+{
+  "id": "enoc",
+  "title": "El Libro de Enoc",
+  "subtitle": "El libro de las vigilantes",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Capítulo 1",
+      "subtitle": "La visión de Enoc",
+      "paragraphs": [
+        { "id": "1-1", "verse": 1, "text": "Palabras de bendición de Enoc con las que bendijo a los elegidos y justos que habrán de existir en el día de la tribulación, cuando todos los malvados e impíos sean alejados." },
+        { "id": "1-2", "verse": 2, "text": "Y respondió y dijo Enoc: Era un hombre justo, cuyos ojos fueron abiertos por Dios, y que tuvo la visión del Santo, en los cielos; esto me mostraron los ángeles." },
+        { "id": "1-3", "verse": 3, "text": "De ellos oí todo, y comprendí lo que vi: pero no para esta generación, sino para una generación lejana que está por venir." },
+        { "id": "1-4", "verse": 4, "text": "Concerniente a los elegidos hablaré, y respecto a ellos tomaré mi parábola: El Santo y Grande saldrá de su morada." },
+        { "id": "1-5", "verse": 5, "text": "El Dios eterno pisará la tierra, el monte Sinaí, y aparecerá en la fuerza de su poder desde el cielo de los cielos." },
+        { "id": "1-6", "verse": 6, "text": "Todos estarán atemorizados, y los Vigilantes se estremecerán, y un gran temor y pavor les dominará hasta los confines de la tierra." },
+        { "id": "1-7", "verse": 7, "text": "Las altas montañas se sacudirán, las colinas se hundirán y se derretirán como cera ante la llama." },
+        { "id": "1-8", "verse": 8, "text": "La tierra será anegada, y todo lo que hay en ella perecerá, mientras el juicio caiga sobre todos." },
+        { "id": "1-9", "verse": 9, "text": "Pero con los justos hará la paz, y protegerá a los elegidos; habrá misericordia sobre ellos. Todos serán de Dios, y serán prosperados y bendecidos. El esplendor de Dios los iluminará." }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Capítulo 2",
+      "subtitle": "Las obras de la naturaleza",
+      "paragraphs": [
+        { "id": "2-1", "verse": 1, "text": "Contemplad todas las cosas que ocurren en el cielo, cómo no cambian sus órbitas; contemplad las luminarias del cielo, cómo todas ellas salen y se ponen en orden, cada una en su estación, sin transgredir su norma asignada." },
+        { "id": "2-2", "verse": 2, "text": "Contemplad la tierra y prestad atención a las cosas que en ella se hacen, desde el comienzo hasta el fin: cómo ninguna obra de Dios cambia en su aparición." },
+        { "id": "2-3", "verse": 3, "text": "Contemplad el verano y el invierno: cómo entonces toda la tierra está llena de agua, y las nubes y el rocío y la lluvia reposan sobre ella." }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Capítulo 3",
+      "subtitle": "El orden de las estaciones",
+      "paragraphs": [
+        { "id": "3-1", "verse": 1, "text": "Contemplad y ved cómo en el invierno todos los árboles parecen como si se hubieran secado y hubieran perdido todas sus hojas, excepto catorce árboles que no pierden su follaje sino que retienen las hojas viejas de dos a tres años hasta que salen las nuevas." },
+        { "id": "3-2", "verse": 2, "text": "Y ved otra vez los días del verano, cuando el sol brilla sobre ella desde el principio. Buscad la sombra y el refugio del calor del sol y la tierra quema con calor abrasador, y no podéis pisar la tierra ni sobre una roca a causa del calor." }
+      ]
+    }
+  ]
+}

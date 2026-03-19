@@ -1,0 +1,42 @@
+{
+  "id": "enoc",
+  "title": "Il Libro di Enoch",
+  "subtitle": "Il libro dei guardiani",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Capitolo 1",
+      "subtitle": "La visione di Enoch",
+      "paragraphs": [
+        { "id": "1-1", "verse": 1, "text": "Parole di benedizione di Enoch con cui egli benedisse gli eletti e i giusti che esisteranno nel giorno della tribolazione, quando tutti gli empi e i malvagi saranno allontanati." },
+        { "id": "1-2", "verse": 2, "text": "Ed Enoch rispose e disse: Io ero un uomo giusto, i cui occhi furono aperti da Dio, e che ebbe la visione del Santo nei cieli; questo mi mostrarono gli angeli." },
+        { "id": "1-3", "verse": 3, "text": "Da loro udii tutto e compresi ciò che vidi; ma non per questa generazione, bensì per una generazione lontana che deve venire." },
+        { "id": "1-4", "verse": 4, "text": "Riguardo agli eletti parlerò, e su di loro pronuncerò la mia parabola: il Santo e il Grande uscirà dalla sua dimora." },
+        { "id": "1-5", "verse": 5, "text": "Il Dio eterno camminerà sulla terra, sul monte Sinai, e apparirà nella forza della sua potenza dal cielo dei cieli." },
+        { "id": "1-6", "verse": 6, "text": "Tutti saranno presi da timore, e i Vigilanti tremeranno, e grande paura e terrore li domineranno fino ai confini della terra." },
+        { "id": "1-7", "verse": 7, "text": "Le alte montagne saranno scosse, le colline si abbasseranno e si scioglieranno come cera davanti alla fiamma." },
+        { "id": "1-8", "verse": 8, "text": "La terra sarà sommersa, e tutto ciò che è in essa perirà, mentre il giudizio verrà su tutti." },
+        { "id": "1-9", "verse": 9, "text": "Ma con i giusti Egli farà la pace, e proteggerà gli eletti; la misericordia sarà su di loro. Tutti apparterranno a Dio, e prospereranno e saranno benedetti. Lo splendore di Dio li illuminerà." }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Capitolo 2",
+      "subtitle": "Le opere della natura",
+      "paragraphs": [
+        { "id": "2-1", "verse": 1, "text": "Osservate tutte le cose che avvengono nel cielo, come non cambiano i loro corsi; osservate i luminari del cielo, come tutti sorgono e tramontano con ordine, ciascuno nella sua stagione, senza trasgredire la loro regola assegnata." },
+        { "id": "2-2", "verse": 2, "text": "Osservate la terra e prestate attenzione alle cose che in essa si compiono, dall'inizio alla fine: come nessuna opera di Dio cambia nel suo aspetto." },
+        { "id": "2-3", "verse": 3, "text": "Osservate l'estate e l'inverno: come allora tutta la terra è piena d'acqua, e le nuvole, la rugiada e la pioggia si posano su di essa." }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Capitolo 3",
+      "subtitle": "L'ordine delle stagioni",
+      "paragraphs": [
+        { "id": "3-1", "verse": 1, "text": "Osservate e vedete come in inverno tutti gli alberi sembrano come se si fossero seccati e avessero perso tutte le loro foglie, eccetto quattordici alberi che non perdono il loro fogliame ma trattengono le foglie vecchie per due o tre anni finché non spuntano le nuove." },
+        { "id": "3-2", "verse": 2, "text": "E osservate ancora i giorni dell'estate, quando il sole splende su di essa fin dall'inizio. Cercate l'ombra e un rifugio dal calore del sole, e la terra brucia con calore ardente, e non potete camminare sulla terra né su una roccia a causa del calore." }
+      ]
+    }
+  ]
+}
